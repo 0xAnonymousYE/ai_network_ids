@@ -5,7 +5,7 @@
 
 ---
 
- 📝 Project Overview
+## 📝 Project Overview
 
 This project is a complete **AI-powered network monitoring and intrusion detection system** built with **Python**.  
 It includes both **CLI-based scripts** and a **Streamlit interactive dashboard** to:
@@ -19,7 +19,7 @@ It includes both **CLI-based scripts** and a **Streamlit interactive dashboard**
 
 ---
 
- 🚀 Features
+## 🚀 Features
 
 - **CLI scripts for training (`train_model.py`) and testing (`test_model.py`)**
 - **Streamlit dashboard (`ai_model_streamlit_complete_fixed.py`)** for interactive training/testing
@@ -30,7 +30,7 @@ It includes both **CLI-based scripts** and a **Streamlit interactive dashboard**
 
 ---
 
- 🖼 Screenshots
+## 🖼 Screenshots
 
 **Streamlit Training Tab:**  
 ![Training Tab](docs/screenshots/training_tab_dashboard.png)
@@ -45,12 +45,12 @@ It includes both **CLI-based scripts** and a **Streamlit interactive dashboard**
 
 ---
 
- 🛠 Installation
+## 🛠 Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ai_network_ids.git
+git clone https://github.com/0xAnonymousYE/ai_network_ids.git
 cd ai_network_ids
 ````
 
@@ -70,9 +70,9 @@ pip install -r requirements.txt
 
 ---
 
- 📂 Usage
+## 📂 Usage
 
-# 1️⃣ Streamlit Interface
+### 1️⃣ Streamlit Interface
 
 Run the Streamlit app:
 
@@ -86,9 +86,9 @@ streamlit run ai_model_streamlit_complete_fixed.py
 * **Testing Tab:** Test models on new CSV data or capture live network packets to detect anomalies.
 * **Live IDS:** Monitor traffic in real-time and generate alerts for suspicious activity.
 
-# 2️⃣ CLI Scripts
+### 2️⃣ CLI Scripts
 
- a) Training
+#### a) Training
 
 Train a model directly from CSV using `train_model.py`:
 
@@ -103,7 +103,7 @@ python train_model.py --file data/sample_train.csv --target class --algo RandomF
 
 > Saves trained model, encoders, and feature list in `models/` directory.
 
- b) Testing
+#### b) Testing
 
 Test a CSV dataset using `test_model.py`:
 
@@ -116,14 +116,14 @@ python test_model.py --file data/sample_test.csv
 
 ---
 
- 📊 Sample Data
+## 📊 Sample Data
 
 * `data/sample_train.csv` – example training dataset
 * `data/sample_test.csv` – example testing dataset
 
 ---
 
- 🧩 Requirements
+## 🧩 Requirements
 
 * Python >= 3.9
 * pandas
@@ -144,13 +144,13 @@ pip install -r requirements.txt
 
 ---
 
- 📌 License
+## 📌 License
 
 MIT License © 2025 Your Name
 
 ---
 
- 🌐 SEO Tips for This Project
+## 🌐 SEO Tips for This Project
 
 * Topics on GitHub: `AI, Machine-Learning, Network-IDS, CLI, Streamlit, Python, Cybersecurity, Data-Science`
 * Include **screenshots and usage examples** in `docs/screenshots/`
