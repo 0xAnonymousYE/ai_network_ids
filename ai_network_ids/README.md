@@ -93,7 +93,7 @@ streamlit run ai_model_streamlit_complete_fixed.py
 Train a model directly from CSV using `train_model.py`:
 
 ```bash
-python train_model.py --file data/sample_train.csv --target class --algo RandomForest --test-size 20
+python train_model.py --file data/Train_data.csv --target class --algo RandomForest --test-size 20
 ```
 
 * `--file` : path to training CSV
@@ -108,7 +108,7 @@ python train_model.py --file data/sample_train.csv --target class --algo RandomF
 Test a CSV dataset using `test_model.py`:
 
 ```bash
-python test_model.py --file data/sample_test.csv
+python test_model.py --file data/Test_data.csv
 ```
 
 * Produces `predictions.csv` with predicted classes
@@ -118,8 +118,8 @@ python test_model.py --file data/sample_test.csv
 
 ## 📊 Sample Data
 
-* `data/sample_train.csv` – example training dataset
-* `data/sample_test.csv` – example testing dataset
+* `data/Train_data.csv` – example training dataset
+* `data/Test_data.csv` – example testing dataset
 
 ---
 
