@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Streamlit cache
+.cache/
+.streamlit/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Mac OS / Linux system files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# PyCharm
+.idea/
+
+# Models and data (optional: can commit sample data, ignore trained models)
+models/
+__pycache__/
+*.pkl
+*.joblib
+
+# CSV outputs or results (optional)
+predictions.csv
+
+# Coverage reports
+htmlcov/
+.coverage
