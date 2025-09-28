@@ -34,7 +34,7 @@ It includes both **CLI-based scripts** and a **Streamlit interactive dashboard**
 
 Watch the full demonstration of the project in action:
 
-[▶️ Click to Watch Demo]([(https://youtu.be/eHXTqAPQVp4)])
+[▶️ Click to Watch Demo](https://youtu.be/eHXTqAPQVp4)
 
 This video walks through:
 - Model training with CSV datasets
