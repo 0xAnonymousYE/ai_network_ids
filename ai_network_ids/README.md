@@ -47,14 +47,6 @@ source venv/bin/activate       # Linux/Mac
 venv\Scripts\activate          # Windows
 ```
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 🎬 Demo Video
 
 Watch the full demonstration of the project in action:
@@ -66,6 +58,14 @@ This video walks through:
 - Performance visualization
 - Live network intrusion detection
 
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
 
 ## 📂 Usage
 
