@@ -30,20 +30,6 @@ It includes both **CLI-based scripts** and a **Streamlit interactive dashboard**
 
 ---
 
-## 🎬 Demo Video
-
-Watch the full demonstration of the project in action:
-
-[▶️ Click to Watch Demo](https://youtu.be/eHXTqAPQVp4)
-
-This video walks through:
-- Model training with CSV datasets
-- Performance visualization
-- Live network intrusion detection
-
-
----
-
 ## 🛠 Installation
 
 Clone the repository:
@@ -68,6 +54,18 @@ pip install -r requirements.txt
 ```
 
 ---
+
+## 🎬 Demo Video
+
+Watch the full demonstration of the project in action:
+
+[▶️ Click to Watch Demo](https://youtu.be/eHXTqAPQVp4)
+
+This video walks through:
+- Model training with CSV datasets
+- Performance visualization
+- Live network intrusion detection
+
 
 ## 📂 Usage
 
