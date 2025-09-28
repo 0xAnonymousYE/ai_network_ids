@@ -30,18 +30,17 @@ It includes both **CLI-based scripts** and a **Streamlit interactive dashboard**
 
 ---
 
-## 🖼 Screenshots
+## 🎬 Demo Video
 
-**Streamlit Training Tab:**  
-![Training Tab](docs/screenshots/training_tab_dashboard.png)
+Watch the full demonstration of the project in action:
 
-**Streamlit Testing CSV:**  
-![Testing Tab](docs/screenshots/testing_csv.png)
+[▶️ Click to Watch Demo]([(https://youtu.be/eHXTqAPQVp4)])
 
-**Streamlit Live Network IDS:**  
-![Live IDS](docs/screenshots/live_ids_alerts.png)
+This video walks through:
+- Model training with CSV datasets
+- Performance visualization
+- Live network intrusion detection
 
-*Replace placeholders with actual screenshots after running the app.*
 
 ---
 
